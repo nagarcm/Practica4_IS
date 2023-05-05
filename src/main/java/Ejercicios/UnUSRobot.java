@@ -3,7 +3,6 @@ package Ejercicios;
 public class UnUSRobot implements USRobotsInterface{
     private double currentSpeed;
 
-
     public UnUSRobot(double speed){
         this.currentSpeed = speed;
     }

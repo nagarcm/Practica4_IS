@@ -12,4 +12,5 @@ public class AdapterUSaRiojano implements RiojaRobotsInterface{
     public void salta(double distanciaMetros){
         this.USRobot.jump(distanciaMetros/0.3);
     }
+
 }
