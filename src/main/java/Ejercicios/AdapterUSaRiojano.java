@@ -1,5 +1,4 @@
 package Ejercicios;
-
 public class AdapterUSaRiojano implements RiojaRobotsInterface{
     private USRobotsInterface USRobot;
 

@@ -1,5 +1,4 @@
 package Ejercicios;
-
 public class Main {
     public static void main(String[] args){
         AdapterUSaRiojano r = new AdapterUSaRiojano(new UnUSRobot(20));

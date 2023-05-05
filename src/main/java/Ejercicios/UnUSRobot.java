@@ -1,5 +1,4 @@
 package Ejercicios;
-
 public class UnUSRobot implements USRobotsInterface{
     private double currentSpeed;
 
