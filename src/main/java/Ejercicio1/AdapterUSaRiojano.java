@@ -1,5 +1,6 @@
-package Ejercicios;
-public class AdapterUSaRiojano implements RiojaRobotsInterface{
+package Ejercicio1;
+
+public class AdapterUSaRiojano implements RiojaRobotsInterface {
     private USRobotsInterface USRobot;
 
     public AdapterUSaRiojano(UnUSRobot robotUS){
